@@ -2,7 +2,7 @@ Substance	Molecular formula	Standard entropy S0#
 acetone	(CH3)2CO	294.65
 glycerin	C3H5(OH)3	206
 ethanol	C2H5OH	282.32
-water 25°C	H2O	69.96
+water	H2O	69.96
 cyclohexane	C6H12	297.95
 methanol	CH3OH	218.57
 ethylene glycol	C2H4(OH)2	166.9
@@ -77,7 +77,7 @@ sulfur (VI) oxide	SO3	255.77
 chlorine	Cl2	222.75
 hydrogen	H2	130.46
 oxygen	O2	204.82
-steam	H2O	188.56
+steam	H2O-S	188.56
 prophene	C3H6	266.68
 vinyl chloride (chloroethene)	CH2CHCl	263.93
 fluorine	F2	202.52
